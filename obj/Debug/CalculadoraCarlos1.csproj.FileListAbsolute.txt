@@ -1,0 +1,10 @@
+C:\Users\carlos.hnferreira1\source\repos\CalculadoraCarlos1\bin\Debug\CalculadoraCarlos1.exe.config
+C:\Users\carlos.hnferreira1\source\repos\CalculadoraCarlos1\bin\Debug\CalculadoraCarlos1.exe
+C:\Users\carlos.hnferreira1\source\repos\CalculadoraCarlos1\bin\Debug\CalculadoraCarlos1.pdb
+C:\Users\carlos.hnferreira1\source\repos\CalculadoraCarlos1\obj\Debug\CalculadoraCarlos1.csproj.AssemblyReference.cache
+C:\Users\carlos.hnferreira1\source\repos\CalculadoraCarlos1\obj\Debug\CalculadoraCarlos1.Form1.resources
+C:\Users\carlos.hnferreira1\source\repos\CalculadoraCarlos1\obj\Debug\CalculadoraCarlos1.Properties.Resources.resources
+C:\Users\carlos.hnferreira1\source\repos\CalculadoraCarlos1\obj\Debug\CalculadoraCarlos1.csproj.GenerateResource.cache
+C:\Users\carlos.hnferreira1\source\repos\CalculadoraCarlos1\obj\Debug\CalculadoraCarlos1.csproj.CoreCompileInputs.cache
+C:\Users\carlos.hnferreira1\source\repos\CalculadoraCarlos1\obj\Debug\CalculadoraCarlos1.exe
+C:\Users\carlos.hnferreira1\source\repos\CalculadoraCarlos1\obj\Debug\CalculadoraCarlos1.pdb
